@@ -108,7 +108,7 @@ Most at-risk students by grades and homework engagement
 Filters by grade and class 
 
 
-6. **Qualitative Insights [coming soon]**
+6. **Qualitative Insights** [coming soon]
 
 Teacher comments table
 
@@ -124,6 +124,15 @@ Example insights brought by the dashboard:
 - Certain students are at-risk when it comes to engagement but not scores.
 - Homework completion correlates highly to test performance, but in-class behavioural issues (as raised in teachers' comments) do not predict performance
 - High homework engagement and low test performances indicate students needing intervention
+
+
+## Future Improvements and Extensions
+
+NLP analysis of teacher comments
+
+Predictive model for risk detection
+
+Cohort tracking across years
 
 
 ## How to run 
